@@ -7,16 +7,17 @@ class Movie {
 
     }
 
-
+// you have to pass this method a param to update the name
     changeMovieName(){
         console.log(this.movieName);
     }
-
+    
+// you have to pass this method a param to update the name
     changeRating (){
         console.log(this.rating);
     }
 
-
+// you have to pass this method a param to update the name
     changeYearReleased(){
         console.log(this.yearReleased);
     }
